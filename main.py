@@ -27,4 +27,4 @@ while True:
     else:
         hint = "bigger"
 
-    print(f"Sorry, your guess is incorrect, try something {hint}")
+    print(f"I'm very sorry, your guess is incorrect, try something {hint}")
